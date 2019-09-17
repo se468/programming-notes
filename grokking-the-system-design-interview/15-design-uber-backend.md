@@ -56,3 +56,4 @@ What if a Driver Location server or Notification server dies?
 - Need replicas of these servers
 - We can also store this data in SSD for fast IOs
 
+## 6. Ranking

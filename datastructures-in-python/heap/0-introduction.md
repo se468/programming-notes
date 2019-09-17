@@ -35,6 +35,16 @@ Some famous algos implemented using Heaps:
 0 at the root
 left to right level wise in a tree
 
+
+First half of list:
+index <= floor( (n - 1) / 2)
+
+Last parent:
+floor ((n-1) / 2) index
+
+Left child of node at kth index: 2k + 1 index
+Right child of node at kth index: 2k + 2 index
+
 # Some common misconceptions
 - Heap data structure is not same as heap memory
 - Heap is not sorted at all (only largest or smallest is placed at top)
