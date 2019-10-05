@@ -3,3 +3,8 @@
 2. Remove the currentNode using the standard BST deletion operation that we studied earlier
 
 
+   1
+
+2       3
+
+4   5   6

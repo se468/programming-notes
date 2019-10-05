@@ -7,3 +7,4 @@
 Two ways to balance:
 1. Recoloring the nodes
 2. Rotating the nodes (left or right)
+
