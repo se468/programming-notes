@@ -1,13 +1,18 @@
+Started: Aug 12
+Goal: Finish prep by Feb 12
+
 # Progress
 [x] Grokking the System Design Interview - Read over
 [x] Datastructures in Python - Interview Refresher
-[ ] Programming Interviews Exposed 
+[ ] Programming Interviews Exposed - IN PROGRESS
+[ ] Grokking the Coding Interview Patterns for Coding Questions - IN PROGRESS
+[ ] Grokking the object oriented design interview
+[ ] Grokking the Dynamic programming patterns in coding interviews
+[ ] Introduction to Algorithms
 [ ] Cracking the coding interview
-[ ] Grokking the Coding Interview - Patterns for Coding Questions
 [ ] Leetcode 150 problems
 [ ] Leetcode 200 problems
 [ ] Leetcode 300 problems
 [ ] Udemy Datastructures C++
 [ ] Participate in Leetcode Contest
 [ ] Front-end developer handbook - https://github.com/FrontendMasters/front-end-handbook-2019
-[ ] Introduction to Algorithms
