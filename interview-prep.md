@@ -1,5 +1,7 @@
-Started: Aug 12
-Goal: Finish prep by Feb 12
+# Timeline
+- Started: Aug 12
+- Goal: Finish prep by Feb 12
+- Paused: Nov 4. Found a job.
 
 # Progress
 [x] Grokking the System Design Interview - Read over

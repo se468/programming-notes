@@ -1,3 +1,12 @@
+# Timeline
+- Started: Nov 16
+
+---
+# Books
+[ ] Artificial Intelligence Basics
+[ ] Software Architecture in Practice
+
+---
 # React/Redux
 [ ] [React Hooks Documentation](https://reactjs.org/docs/hooks-intro.html)
 
@@ -18,4 +27,5 @@
 
 ---
 # Kubernetes
+[ ] [Go through Documentation](https://kubernetes.io/docs/home/)
 
