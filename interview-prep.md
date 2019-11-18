@@ -2,19 +2,26 @@
 - Started: Aug 12
 - Goal: Finish prep by Feb 12
 - Paused: Nov 4. Found a job.
+---
+- Goal: Prep for Code Jam for April 2020
 
-# Progress
-[x] Grokking the System Design Interview - Read over
+# Algorithms
+
 [x] Datastructures in Python - Interview Refresher
-[ ] Programming Interviews Exposed - IN PROGRESS
 [ ] Grokking the Coding Interview Patterns for Coding Questions - IN PROGRESS
+[ ] Programming Interviews Exposed - IN PROGRESS
 [ ] Grokking the object oriented design interview
 [ ] Grokking the Dynamic programming patterns in coding interviews
 [ ] Introduction to Algorithms
 [ ] Cracking the coding interview
-[ ] Leetcode 150 problems
-[ ] Leetcode 200 problems
-[ ] Leetcode 300 problems
+[ ] Leetcode 150 problems - Current: 145/150
+[ ] Leetcode 200 problems - Current: 145/200
+[ ] Leetcode 300 problems - Current: 145/300
 [ ] Udemy Datastructures C++
 [ ] Participate in Leetcode Contest
 [ ] Front-end developer handbook - https://github.com/FrontendMasters/front-end-handbook-2019
+
+# System Design
+[x] Grokking the System Design Interview - Read over
+[ ] Book - Designing Data Intensive Applications
+[ ] Book - Software Architecture in Practice

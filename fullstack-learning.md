@@ -4,7 +4,6 @@
 ---
 # Books
 [ ] Artificial Intelligence Basics
-[ ] Software Architecture in Practice
 
 ---
 # React/Redux
