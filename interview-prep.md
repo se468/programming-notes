@@ -25,3 +25,4 @@
 [x] Grokking the System Design Interview - Read over
 [ ] Book - Designing Data Intensive Applications
 [ ] Book - Software Architecture in Practice
+[ ] Video - https://www.youtube.com/watch?v=vg5onp8TU6Q&feature=emb_logo
