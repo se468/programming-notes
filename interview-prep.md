@@ -14,9 +14,9 @@
 [ ] Grokking the Dynamic programming patterns in coding interviews
 [ ] Introduction to Algorithms
 [ ] Cracking the coding interview
-[ ] Leetcode 150 problems - Current: 145/150
-[ ] Leetcode 200 problems - Current: 145/200
-[ ] Leetcode 300 problems - Current: 145/300
+[ ] Leetcode 150 problems - Current: 147/150
+[ ] Leetcode 200 problems - Current: 147/200
+[ ] Leetcode 300 problems - Current: 147/300
 [ ] Udemy Datastructures C++
 [ ] Participate in Leetcode Contest
 [ ] Front-end developer handbook - https://github.com/FrontendMasters/front-end-handbook-2019
@@ -25,4 +25,4 @@
 [x] Grokking the System Design Interview - Read over
 [ ] Book - Designing Data Intensive Applications
 [ ] Book - Software Architecture in Practice
-[ ] Video - https://www.youtube.com/watch?v=vg5onp8TU6Q&feature=emb_logo
+[x] Video - https://www.youtube.com/watch?v=vg5onp8TU6Q&feature=emb_logo`
