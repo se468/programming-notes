@@ -10,13 +10,6 @@
 [ ] [React Hooks Documentation](https://reactjs.org/docs/hooks-intro.html)
 
 ---
-# Django
-
-## Progress 
-[ ] [Python Django Crash Course 2019](https://www.youtube.com/watch?v=e1IyzVyrLSU)
-[ ] Go through Django Documentation
-
----
 # GraphQL / GatsbyJS
 [ ] [How To GraphQL](https://www.howtographql.com/)
 [ ] [GatsbyJS](https://www.gatsbyjs.org/)
